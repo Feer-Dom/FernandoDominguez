@@ -1,0 +1,6 @@
+C:\Users\Fernando\source\repos\TP1_Dominguez\TP1_Dominguez\bin\Debug\TP1_Dominguez.dll
+C:\Users\Fernando\source\repos\TP1_Dominguez\TP1_Dominguez\bin\Debug\TP1_Dominguez.pdb
+C:\Users\Fernando\source\repos\TP1_Dominguez\TP1_Dominguez\obj\Debug\TP1_Dominguez.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\TP1_Dominguez\TP1_Dominguez\obj\Debug\TP1_Dominguez.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\TP1_Dominguez\TP1_Dominguez\obj\Debug\TP1_Dominguez.dll
+C:\Users\Fernando\source\repos\TP1_Dominguez\TP1_Dominguez\obj\Debug\TP1_Dominguez.pdb
